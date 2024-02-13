@@ -5,12 +5,19 @@
 /.pnp
 .pnp.js
 
+.idea
+
 # testing
 /coverage
 
 # production
 /build
 
+/ios
+
+/dist
+
+/android
 # misc
 .DS_Store
 .env.local
